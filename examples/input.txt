@@ -1,0 +1,4 @@
+Sales sends drawings to scheduling.
+Scheduling creates a ticket.
+Tech does work and emails results.
+Office saves files and sends report.
